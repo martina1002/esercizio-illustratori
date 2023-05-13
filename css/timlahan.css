@@ -1,0 +1,93 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 1200px;
+    margin: auto;
+background-color: beige;
+}
+
+
+
+
+.navigazione{
+
+    color: black;
+}
+
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 10px;
+}
+
+nav a {
+    color: #999;
+    text-decoration: none;
+    text-transform: uppercase;
+    justify-content: flex-end;}
+
+
+h4{
+    font-size: 60px;
+    margin-top: 150px;
+}
+
+
+.testotim{
+    font-size: 28px;
+    display: flex;
+      max-width: 880px;
+      
+      margin-left: 0px;
+    
+}
+
+
+
+.timuno{
+    border: 60;
+    text-align: right;
+    margin-top: -345px;
+}
+
+
+.tdue{
+    border: 60;
+    text-align: right;
+    
+}
+
+
+.ttre{
+    border: 60;
+    text-align: right;  
+}
+
+
+.tq{
+
+    border: 60;
+    text-align: right; 
+}
+
+
+.tcs{
+    display: flex;
+    margin-top: -490px;
+    gap: 80px;
+
+}
+
+footer p{
+    font-family:  Helvetica;
+    text-align: left;
+    display: block;
+   
+}
+
+
+
+

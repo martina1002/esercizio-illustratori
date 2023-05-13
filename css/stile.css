@@ -1,0 +1,87 @@
+
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 1200px;
+    margin: auto;
+background-color: beige;
+}
+
+
+.navigazione{
+
+    color: black;
+}
+
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 10px;
+}
+
+nav a {
+    color: #999;
+    text-decoration: none;
+    text-transform: uppercase;
+    justify-content: flex-end;
+}
+
+img{
+    max-width: 100%;
+    display: block;
+}
+
+h2{
+    margin-top: 150px;
+    margin-left: 9px;
+}
+
+
+section.card {
+    background-color: beige;
+    padding: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px; 
+    max-width: 1200px;
+    margin: auto;
+    margin-top: 150px;
+}
+
+main section img{
+    max-width: 1200px;
+    margin: auto;
+    display: block;
+}
+
+
+
+
+.nomi{
+    display: block;
+    max-width: 1200px;
+   margin-left: 17px;
+    text-decoration: none; 
+   color: black;
+   font-size: 20px;
+   font-weight: bold;
+}
+
+footer p{
+    font-family:  Helvetica;
+    text-align: left;
+    display: block;
+    padding: 40px;
+    margin-left: -40px;
+    
+}
+
+
+
+
+
+

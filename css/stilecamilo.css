@@ -1,0 +1,85 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 1200px;
+    margin: auto;
+background-color: beige;
+}
+
+
+
+
+.navigazione{
+
+    color: black;
+}
+
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 10px;
+}
+
+nav a {
+    color: #999;
+    text-decoration: none;
+    text-transform: uppercase;
+    justify-content: flex-end;
+}
+
+p{
+    width: 858px;
+    height: 978px;
+}
+
+
+.camiuno{
+    border: 1;
+    text-align: right;
+    margin-top: -1000px;
+}
+
+
+.cdue{
+    border: 1;
+    text-align: right;
+    
+}
+
+
+.ctre{
+    border: 1;
+    text-align: right;  
+}
+
+
+.cq{
+
+    margin-top: -330px;
+}
+
+
+.testocami{
+    font-size: 28px;
+}
+
+.camii{
+  font-size: 60px;
+  margin-top: 150px;
+}
+
+
+footer p{
+    font-family:  Helvetica;
+    text-align: left;
+    display: block;
+   
+}
+
+
+
+
+
